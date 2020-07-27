@@ -1,0 +1,106 @@
+<!DOCTYPE HTML>
+<!--
+	Solid State by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Mika Landin ePortfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">MikaLandin</a></h1>
+					</header>
+						<!-- Four -->
+							<section id="four" class="wrapper alt style1">
+								<div class="inner">
+									<h2 class="major">Participation Design</h2>
+									<p>This project was made by me and three other student in my Bachelor’s Programme in <a href="https://www.su.se/english/search-courses-and-programmes/siadk-1.411900">Interaction Design</a> at Stockholm University. The aim of Participation Design is to work close together with the final users of the system or product.  <br /> <br /> We contacted a preschool located in Stockholm to work together with the pedagogues. During the hole process we worked close with the final users since they are considered as experts of their field.
+									<br />
+									<br /> Methods that were used in the Participation Design project:
+									<br />
+									<br /> <b>1. Contextual Research</b>
+									<br />
+									<br /> - With Contextual design research the design team collects data about the users in the field by observing the users in their context.
+ 									<br />
+ 									<br /> - We observed the pedagogues at their daily work place at the preschool to get a understanding of the users problems. By observation and conversation with the users the we created an affinity diagram that we discussed together with the users.
+ 									<br /> 
+ 									<br />
+ 									<a href="#" class="image"><img src="AD.jpg" alt="" /></a>
+ 									<br /> 
+ 									<br /> - The affinity diagram resulted in that the users choose a problem that they wanted to solve with the use of an digital artifact. 
+									<br />
+									<br /> - The chosen area was “worried that a child would disappear”.
+									<br />
+									<br /><b>2. Future Workshop</b>
+									<br />
+									<br />- In the future workshop the users discuss with each other future solutions to the current problem. The process includes three stages, critique, fantasize and implementation. In the critique stage the users discussed the problem. In the fantasize stage the users brainstormed about solutions. In the implementation stage the users discuss ideas of implementations to solve the problem. 
+									<br />
+									<br />- The possible solutions that were discussed during the future workshop was code for the gate at the preschool yard, baby monitors that detect movement and zones for danger.
+									<br />
+									<br /><b>3. Participation Prototyping</b>
+									<br />
+									<br />- The users individually formed a storyboard with pen and paper to research about the solution of their problem. After sketching and thinking out loud the users together formed a storyboard that they presented to us in the design team.
+									<br /> 
+ 									<br />
+ 									<a href="#" class="image"><img src="WP.jpg" alt="" /></a>
+ 									<br />
+ 									<br /><b>4. Evaluation of Prototypes </b>
+									<br />
+									<br />- Based of the three previous steps, the design team designed three prototypes for the participants to evaluate. The users have an opportunity to try, feel and give feedback on the prototypes that are created from their own ideas. The evaluation led us to a final prototype. 
+									<br />
+									<br />
+									<a href="#" class="image"><img src="PE.jpg" alt="" /></a>
+									<br />
+									<br />
+									<h1>Final Prototype</h1>
+									The final prototype is a Wizard of Oz prototype. To represent the preschool's yard, the preschool educators and the children at the preschool, we used lego guys as well as printed satellite image of the preschool's yard.
+ 									<br />
+ 									<br />
+ 									<a href="#" class="image"><img src="RP.jpg" alt="" width="600" height="800"/></a>
+ 									<br />
+ 									<br /> The final prototype is a result of close collaboration with the final participants.
+ 									<br />
+ 									<br />
+ 									<a href="#" class="image"><img src="P.jpg" alt="" width="400" height="400"></a> <a href="#" class="image"><img src="P2.jpg" alt="" width="400" height="400"></a>
+									<br />
+									<br />
+									<h1>Conclusion</h1>
+									The course Participation Design focused on the importance of working with the final users and to consider them as experts. The collaboration with the users is the key to achive useability.
+									<br />
+									<br />The project were presented at a open event at the institution for data and systems science at Stockholm University. At this event other designers and companies got to try the final prototype and give us feedback and we had interesting discussions. 
+									<br />
+									<br />
+									<h1>My part</h1>
+									My main responsibility in this project was to manage the Participation Pototype session. The project was a opportunity to learn and work with different methods, therefore every member of the group were involved in all of the four methods. To be able to learn and to create the final prototype the group considered it as important to be involved in every step.
+									<br />
+									<br />In the Participation Design project I learned the importance of working together with the final users. I got to try different methods and had a great collaboration with my design team and with the pedagogues at the preschool. 
+									<br />
+									<br /><a href="index.html" class="previous round">&#8249; Back</a>
+
+ 									</p>
+									<section class="features">
+							</section>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
